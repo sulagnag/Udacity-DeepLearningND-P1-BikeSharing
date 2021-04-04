@@ -21,7 +21,7 @@ extracted and added the corresponding weather and seasonal information. Weather 
 
 ## Getting Started - Requirements
 Python packages 
-- python 3.6 b. 
+- python 3.6
 - numpy 
 - pandas 
 - matplotlib
